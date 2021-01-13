@@ -1,0 +1,25 @@
+{
+  "name": "tests-unitaris-mochajs",
+  "version": "1.0.0",
+  "description": "tests unitaris",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classicoman2/tests-unitaris-mochajs.git"
+  },
+  "keywords": [
+    "mocha",
+    "tests",
+    "chai"
+  ],
+  "homepage": "https://github.com/classicoman2/tests-unitaris-mochajs#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
