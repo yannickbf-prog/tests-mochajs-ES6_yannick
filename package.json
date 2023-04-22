@@ -17,7 +17,7 @@
   ],
   "homepage": "https://github.com/classicoman2/tests-unitaris-mochajs#readme",
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "node-fetch": "^2.6.1"
